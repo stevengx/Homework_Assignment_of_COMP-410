@@ -1,0 +1,15 @@
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\CosmosKernel3.dll
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\CosmosKernel3.pdb
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Core.dll
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Debug.Kernel.dll
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Hardware.dll
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.System.dll
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Common.Extensions.dll
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Core.pdb
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Hardware.pdb
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.System.pdb
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Debug.Kernel.pdb
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\bin\Debug\Cosmos.Common.Extensions.pdb
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\obj\Debug\CosmosKernel3.csprojResolveAssemblyReference.cache
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\obj\Debug\CosmosKernel3.dll
+c:\users\stevengx\documents\visual studio 2013\Projects\CosmosKernel3\CosmosKernel3\obj\Debug\CosmosKernel3.pdb
